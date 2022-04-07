@@ -1,0 +1,9 @@
+{
+  "name": "rustyWNode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "rustc ./src/lib.rs && ./lib.exe"
+  }
+}
